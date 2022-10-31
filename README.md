@@ -11,16 +11,29 @@
 
 - `pkg install python`
 
-- `pip install bs4`
 
-- `pkg install requests`
+
+
 
 - `pkg install git`
 
 
 
+
+- `pip install bs4`
+
+
+
+- `pip install requests`
+
+
+
 - `git clone https://github.com/SIFAT-007/GMCV` 
 
+
+
 - `cd GMCV`
+
+
 
 - `python GMCV.py`
