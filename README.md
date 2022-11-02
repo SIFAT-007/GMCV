@@ -26,7 +26,7 @@
 
 - `pip install requests`
 
-
+- `git pull`
 
 - `git clone https://github.com/SIFAT-007/GMCV` 
 
